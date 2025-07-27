@@ -1,0 +1,46 @@
+ body{
+    background-image: url("https://i.huffpost.com/gen/2962794/images/o-MAGGI-NOODLES-facebook.jpg");
+    background-size: cover;
+}
+h1{
+    color: rgb(12, 1, 18);
+    font-family:cursive;
+    font-weight: bolder;
+    width: 200px;
+    text-align: center;
+    background-color: darkgray;
+    
+    border-radius: 20px 0 20px 0;
+    border-style: double;
+        box-shadow: 10px 10px 30px rgb(119, 42, 42);
+
+}
+h2{
+        
+    color: rgb(247, 245, 249);
+    font-family:cursive;
+    font-weight: bolder;
+    width: 200px;
+    text-align: center;
+    background-color: rgb(35, 31, 31);
+    
+    border-radius: 20px 20px 20px 20px;
+    border-style:dotted;
+        box-shadow: 10px 10px 30px rgb(119, 42, 42);
+
+}
+table{
+    background-color: rgb(144, 144, 202);
+    color: rgb(13, 1, 8);
+    font-family:Arial, Helvetica, sans-serif;
+    
+    box-shadow: 4px 4px 10px rgb(10, 10, 96);
+    border-radius: 2px 0 2px 0;
+}
+h2:hover{
+    background-color: rgb(200, 255, 0);
+    color: black;
+}
+table:hover{
+    background-color: bisque;
+} 
